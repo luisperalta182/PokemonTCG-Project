@@ -1,4 +1,4 @@
-# Pokemon TCG project
+# Pokemon TCG project v1
 
 This project use an API to check the cards, expansions, create your deck and visualize the price of the deck from two of the best TCG stores on the market :wink: 
 
